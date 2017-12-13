@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [For Students](for-students.md)
-  * Getting Started
+  * [Getting Started](for-students/getting-started.md)
   * Making Notes
   * [Submitting Work](for-students/submitting-work.md)
 * [For Teachers](for-teachers.md)
