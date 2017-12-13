@@ -1,8 +1,4 @@
-# Connected Academy
-
-
+# Introduction
 
 This is a project!
-
-
 
