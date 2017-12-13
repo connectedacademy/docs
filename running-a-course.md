@@ -6,13 +6,13 @@
 
 
 
-## 
+All course content is hosted on GitHub, as open source content. There are a number of steps you can 
 
 ## Existing Courses {#existing}
 
-* [Interpretation](https://interpretation.connectedacademy.io)
-* [Talking Pictures](https://talkingpictures.connectedacademy.io)
-* [Research Methods](https://researchmethods.connectedacademy.io)
+* [Interpretation](https://interpretation.connectedacademy.io) \| [GitHub](https://github.com/connectedacademy/interpretation)
+* [Talking Pictures](https://talkingpictures.connectedacademy.io) \| [GitHub](https://github.com/connectedacademy/talkingpictures)
+* [Research Methods](https://researchmethods.connectedacademy.io) \| [GitHub](https://github.com/connectedacademy/researchmethods)
 
 
 
